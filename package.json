@@ -37,11 +37,12 @@
     "environment"
   ],
   "dependencies": {
-    "broccoli-filter": "^0.1.0",
-    "strip-json-comments": "^0.1.1"
+    "broccoli-filter": "^0.1.6",
+    "strip-json-comments": "^1.0.1"
   },
   "devDependencies": {
-    "broccoli": "^0.7.2",
+    "broccoli": "^0.12.3",
+    "broccoli-cli": "0.0.1",
     "mocha": "*",
     "rimraf": "^2.2.6"
   }
