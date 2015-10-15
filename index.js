@@ -7,6 +7,8 @@ function StripJsonCommentsFilter(inputTree, options) {
 		return new StripJsonCommentsFilter(inputTree);
 	}
 
+	Filter.call(this, inputTree);
+
 	this.inputTree = inputTree;
 }
 
