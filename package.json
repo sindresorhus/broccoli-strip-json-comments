@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "broccoli-filter": "^1.2.2",
-    "strip-json-comments": "^1.0.1"
+    "strip-json-comments": "^2.0.0"
   },
   "devDependencies": {
     "broccoli": "^0.16.8",
