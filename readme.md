@@ -1,4 +1,4 @@
-# [broccoli](https://github.com/joliss/broccoli)-strip-json-comments [![Build Status](https://travis-ci.org/sindresorhus/broccoli-strip-json-comments.svg?branch=master)](https://travis-ci.org/sindresorhus/broccoli-strip-json-comments)
+# [broccoli](https://github.com/joliss/broccoli)-strip-json-comments
 
 > Strip comments from JSON with [strip-json-comments](https://github.com/sindresorhus/strip-json-comments)
 > Lets you use comments in your JSON files!
