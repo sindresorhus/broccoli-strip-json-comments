@@ -6,8 +6,8 @@
 
 ## Install
 
-```
-$ npm install --save-dev broccoli-strip-json-comments
+```sh
+npm install --save-dev broccoli-strip-json-comments
 ```
 
 
